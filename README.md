@@ -43,10 +43,6 @@ To run the training scripts efficiently, it's recommended to have access to a ma
 * GPU with at least 12 GB 
 * 40 GB RAM
 
-Running the Training Script
-
-In this section, we provide instructions on how to run the training script.
-
 ## Model 
 
 For the model in this competition we will use [microsoft/deberta-v3-large](https://huggingface.co/microsoft/deberta-v3-large) from Hugging Face.
